@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb08b129-90cc-40bc-a8e2-ef0265526f6f" name="Default Changelist" comment="" />
+    <list default="true" id="bb08b129-90cc-40bc-a8e2-ef0265526f6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CalculateDateOfTheWeekTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/PrintChessBoardPatternTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE3/com/PE3/CalculateDateOfTheWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE3/com/PE3/CheckConsecutiveNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE3/com/PE3/CheckSumOfTheMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE3/com/PE3/GenerateException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE3/com/PE3/PrintChessBoardPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE3/com/PE3/RemoveTheVowels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE3/com/PE3/StudentMarks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE3/com/PE3/ThrowClassException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE3/com/PE3/CheckConsecutiveNumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE3/com/PE3/CheckSumOfTheMatricesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE3/com/PE3/RemoveTheVowelsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE3/com/PE3/StudentMarksTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PE3/CalculateDateOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CalculateDateOfTheWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PE3/CheckConsecutiveNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CheckConsecutiveNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PE3/CheckSumOfTheMatrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CheckSumOfTheMatrices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PE3/GenerateException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/GenerateException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PE3/PrintChessBoardPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/PrintChessBoardPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PE3/RemoveTheVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/RemoveTheVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PE3/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PE3/ThrowClassException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/ThrowClassException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/PE3/CheckConsecutiveNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CheckConsecutiveNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/PE3/CheckSumOfTheMatricesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CheckSumOfTheMatricesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/PE3/RemoveTheVowelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/RemoveTheVowelsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/PE3/StudentMarksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/StudentMarksTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,72 +40,115 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/PrintChessBoardPattern.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/PrintChessBoardPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="16" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/RemoveTheVowelsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/StudentMarks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/StudentMarksTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/CheckConsecutiveNumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/RemoveTheVowels.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="525">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/CheckSumOfTheMatricesTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/StudentMarks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="17" column="18" lean-forward="true" selection-end-line="55" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#1364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/ThrowClassException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#707#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CheckConsecutiveNumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/PrintChessBoardPatternTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CheckSumOfTheMatricesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="695">
+              <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/StudentMarksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/GenerateException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#1651#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/RemoveTheVowelsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/RemoveTheVowels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#659#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,6 +163,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,15 +190,30 @@
         <option value="$PROJECT_DIR$/src/main/test/com/PE3/CheckConsecutiveNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/PE3/StudentMarks.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/PE3/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/RemoveTheVowels.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/ThrowClassException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CheckConsecutiveNum.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CheckConsecutiveNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/RemoveTheVowelsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CalculateDateOfTheWeekTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/PrintChessBoardPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/PrintChessBoardPatternTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CheckSumOfTheMatricesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CalculateDateOfTheWeek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CheckSumOfTheMatrices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/GenerateException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE3/StudentMarks.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="913" />
-    <option name="height" value="442" />
+    <option name="x" value="611" />
+    <option name="y" value="81" />
+    <option name="width" value="610" />
+    <option name="height" value="555" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -187,7 +276,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546975605325" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547368266556" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -199,6 +288,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.PE3" />
       <recent name="com.PE3" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -218,13 +308,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StudentMarksTest">
-    <configuration name="StudentMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.PE3.StudentMarks" />
+  <component name="RunManager" selected="JUnit.RemoveTheVowelsTest">
+    <configuration name="GenerateException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE3.GenerateException" />
       <module name="PE3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.PE3.*" />
+          <option name="PATTERN" value="com.stackroute.PE3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,82 +322,81 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckConsecutiveNumTest.consecutivenumberfailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckSumOfTheMatricesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.PE3.*" />
+          <option name="PATTERN" value="com.stackroute.PE3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.PE3" />
-      <option name="MAIN_CLASS_NAME" value="com.PE3.CheckConsecutiveNumTest" />
-      <option name="METHOD_NAME" value="consecutivenumberfailure" />
+      <option name="PACKAGE_NAME" value="com.stackroute.PE3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE3.CheckSumOfTheMatricesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckSumOfTheMatricesTest.testSumOfmatricesSuccess1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.PE3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.PE3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE3.CheckSumOfTheMatricesTest" />
+      <option name="METHOD_NAME" value="testSumOfmatricesSuccess1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMarksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintChessBoardPatternTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.PE3.*" />
+          <option name="PATTERN" value="com.stackroute.PE3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.PE3" />
-      <option name="MAIN_CLASS_NAME" value="com.PE3.StudentMarksTest" />
+      <option name="PACKAGE_NAME" value="com.stackroute.PE3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE3.PrintChessBoardPatternTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMarksTest.getNumOfStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveTheVowelsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.PE3.*" />
+          <option name="PATTERN" value="com.stackroute.PE3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.PE3" />
-      <option name="MAIN_CLASS_NAME" value="com.PE3.StudentMarksTest" />
-      <option name="METHOD_NAME" value="getNumOfStudents" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentMarksTest.testFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.PE3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.PE3" />
-      <option name="MAIN_CLASS_NAME" value="com.PE3.StudentMarksTest" />
-      <option name="METHOD_NAME" value="testFailure" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.stackroute.PE3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE3.RemoveTheVowelsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StudentMarks" />
-      <item itemvalue="JUnit.CheckConsecutiveNumTest.consecutivenumberfailure" />
-      <item itemvalue="JUnit.StudentMarksTest" />
-      <item itemvalue="JUnit.StudentMarksTest.getNumOfStudents" />
-      <item itemvalue="JUnit.StudentMarksTest.testFailure" />
+      <item itemvalue="JUnit.CheckSumOfTheMatricesTest.testSumOfmatricesSuccess1" />
+      <item itemvalue="JUnit.CheckSumOfTheMatricesTest" />
+      <item itemvalue="Application.GenerateException" />
+      <item itemvalue="JUnit.PrintChessBoardPatternTest" />
+      <item itemvalue="JUnit.RemoveTheVowelsTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentMarksTest" />
-        <item itemvalue="Application.StudentMarks" />
-        <item itemvalue="JUnit.StudentMarksTest.testFailure" />
-        <item itemvalue="JUnit.StudentMarksTest.getNumOfStudents" />
-        <item itemvalue="JUnit.CheckConsecutiveNumTest.consecutivenumberfailure" />
+        <item itemvalue="JUnit.RemoveTheVowelsTest" />
+        <item itemvalue="JUnit.PrintChessBoardPatternTest" />
+        <item itemvalue="Application.GenerateException" />
+        <item itemvalue="JUnit.CheckSumOfTheMatricesTest" />
+        <item itemvalue="JUnit.CheckSumOfTheMatricesTest.testSumOfmatricesSuccess1" />
       </list>
     </recent_temporary>
   </component>
@@ -325,35 +414,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckConsecutiveNumTest_consecutivenumbersuccess - 2019.01.08 at 09h 50m 56s.xml">
-      <configuration name="CheckConsecutiveNumTest.consecutivenumbersuccess" configurationId="JUnit" />
+    <history-entry file="CheckSumOfTheMatricesTest_testSumOfMatricesFailure2 - 2019.01.12 at 13h 34m 33s.xml">
+      <configuration name="CheckSumOfTheMatricesTest.testSumOfMatricesFailure2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConsecutiveNumTest_consecutivenumberfailure - 2019.01.08 at 09h 51m 02s.xml">
-      <configuration name="CheckConsecutiveNumTest.consecutivenumberfailure" configurationId="JUnit" />
+    <history-entry file="CalculateDateOfTheWeekTest_testWeekDateMethodNeutral - 2019.01.13 at 13h 21m 51s.xml">
+      <configuration name="CalculateDateOfTheWeekTest.testWeekDateMethodNeutral" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConsecutiveNumTest_consecutivenumberfailure - 2019.01.08 at 09h 51m 23s.xml">
-      <configuration name="CheckConsecutiveNumTest.consecutivenumberfailure" configurationId="JUnit" />
+    <history-entry file="CalculateDateOfTheWeekTest - 2019.01.13 at 13h 22m 29s.xml">
+      <configuration name="CalculateDateOfTheWeekTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConsecutiveNumTest_consecutivenumberfailure - 2019.01.08 at 09h 53m 37s.xml">
-      <configuration name="CheckConsecutiveNumTest.consecutivenumberfailure" configurationId="JUnit" />
+    <history-entry file="CalculateDateOfTheWeekTest - 2019.01.13 at 13h 23m 15s.xml">
+      <configuration name="CalculateDateOfTheWeekTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConsecutiveNumTest_consecutivenumberfailure - 2019.01.08 at 09h 54m 32s.xml">
-      <configuration name="CheckConsecutiveNumTest.consecutivenumberfailure" configurationId="JUnit" />
+    <history-entry file="CalculateDateOfTheWeekTest_testCalculateDateOfWeekSuccess - 2019.01.13 at 13h 23m 46s.xml">
+      <configuration name="CalculateDateOfTheWeekTest.testCalculateDateOfWeekSuccess" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConsecutiveNumTest_consecutivenumbersuccess - 2019.01.08 at 09h 54m 58s.xml">
-      <configuration name="CheckConsecutiveNumTest.consecutivenumbersuccess" configurationId="JUnit" />
+    <history-entry file="CheckSumOfTheMatricesTest - 2019.01.13 at 13h 32m 38s.xml">
+      <configuration name="CheckSumOfTheMatricesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConsecutiveNumTest_consecutivenumberfailure - 2019.01.08 at 09h 55m 03s.xml">
-      <configuration name="CheckConsecutiveNumTest.consecutivenumberfailure" configurationId="JUnit" />
+    <history-entry file="CheckSumOfTheMatricesTest - 2019.01.13 at 13h 33m 06s.xml">
+      <configuration name="CheckSumOfTheMatricesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentMarksTest_getNumOfStudents - 2019.01.08 at 10h 34m 51s.xml">
-      <configuration name="StudentMarksTest.getNumOfStudents" configurationId="JUnit" />
+    <history-entry file="CheckSumOfTheMatricesTest - 2019.01.13 at 13h 33m 39s.xml">
+      <configuration name="CheckSumOfTheMatricesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentMarksTest_testFailure - 2019.01.08 at 10h 34m 55s.xml">
-      <configuration name="StudentMarksTest.testFailure" configurationId="JUnit" />
+    <history-entry file="PrintChessBoardPatternTest - 2019.01.13 at 13h 49m 21s.xml">
+      <configuration name="PrintChessBoardPatternTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentMarksTest - 2019.01.08 at 10h 38m 50s.xml">
-      <configuration name="StudentMarksTest" configurationId="JUnit" />
+    <history-entry file="RemoveTheVowelsTest - 2019.01.13 at 13h 51m 00s.xml">
+      <configuration name="RemoveTheVowelsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -365,15 +454,15 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.8054187" visible="true" weight="0.2753392" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.8054187" visible="true" weight="0.29449323" />
       <window_info id="Structure" order="6" sideWeight="0.19458129" side_tool="true" weight="0.2585794" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.048701297" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.048701297" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32142857" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32084692" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3409091" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.27850163" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -393,23 +482,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/SumOfTheMatricesTest.groovy" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/SumOfTheMatricesTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/CheckConsecutiveNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/CalculateDateOfTheWeek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/CheckSumOfTheMatrices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -417,82 +489,133 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/GenerateException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/ThrowClassException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/PrintChessBoardPatternTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/CheckConsecutiveNum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CalculateDateOfTheWeek.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="271">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#1042#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/PrintChessBoardPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/RemoveTheVowelsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/StudentMarks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/StudentMarksTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CheckConsecutiveNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/CheckSumOfTheMatrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#1344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CalculateDateOfTheWeekTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CheckConsecutiveNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/CheckConsecutiveNumTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/CheckSumOfTheMatricesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        <state relative-caret-position="695">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/PE3/RemoveTheVowels.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/GenerateException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="135">
+          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#1651#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/PE3/CheckSumOfTheMatricesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/PrintChessBoardPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="17" column="18" lean-forward="true" selection-end-line="55" selection-end-column="1" />
+        <state relative-caret-position="525">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/PrintChessBoardPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/RemoveTheVowelsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/RemoveTheVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/ThrowClassException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/PE3/StudentMarksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE3/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#1364#0" expanded="true" />
           </folding>
         </state>
       </provider>
