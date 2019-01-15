@@ -22,7 +22,6 @@ public class CalculateDateOfTheWeek {
         day = formatdate.format(calender.getTime())+"\n";
 
         // Print dates of the current week starting on Monday
-        System.out.println(formatdate.format(calender.getTime()));
         for (int i = 0; i < 6; i++) {
             calender.add(Calendar.DATE, 1);
         }
